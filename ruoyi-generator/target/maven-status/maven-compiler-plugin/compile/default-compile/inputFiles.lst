@@ -1,0 +1,13 @@
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableService.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableColumnService.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableMapper.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/config/GenConfig.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/service/GenTableColumnServiceImpl.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTableColumn.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/util/VelocityUtils.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/controller/GenController.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/service/GenTableServiceImpl.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/util/VelocityInitializer.java
+/Users/caiyu/Workspace/caiyu/silence/silence-admin/ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java
